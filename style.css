@@ -1,1 +1,67 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
 
+.jumbotron {
+    padding: 10px
+}
+
+.display-4 {
+    font-size: 2.7rem;
+}
+
+#me {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin-right: 30px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    
+}
+
+#navbarNav {
+    display: flex;
+    justify-content: center;
+}
+
+.info {
+    margin-top: 30px;
+}
+
+.card {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    align-items: center;
+}
+
+#card-img {
+    height: 285px;
+    width: 285px;
+}
+
+.icons {
+    margin-top: 30px;
+}
+
+.contact-icons {
+    height: 100px;
+    width: 100px;
+}
+
+.btn {
+    background-color: black;
+    border: black;
+}
+
+.btn-primary:hover {
+    background-color: darkgray;
+}
