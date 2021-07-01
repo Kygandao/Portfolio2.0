@@ -76,8 +76,8 @@
 }
 
 .btn {
-    background-color: black;
-    border: black;
+    background-color: rgb(88, 117, 88);
+    border: none;
 }
 
 .btn-primary:hover {
