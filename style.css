@@ -78,6 +78,7 @@
 .btn {
     background-color: rgb(88, 117, 88);
     border: none;
+    margin: 2px;
 }
 
 .btn-primary:hover {
